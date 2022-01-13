@@ -1,0 +1,7 @@
+03 - Criar um algoritmo narrativo para uma partida de jogo da velha.
+
+Inicio
+
+- Marcar X ou O em um dos campos vazio até que prencha todos
+
+Fim

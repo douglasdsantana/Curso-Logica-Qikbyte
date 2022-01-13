@@ -1,0 +1,16 @@
+02 - Criar um algoritmo narrativo para trocar o pneu do carro:
+
+Inicio
+
+- Pegue a chave de roda
+- Pegue o pneu step 
+- Pegue o macaco
+- Coloque o macaco na posição
+- Levante o carro
+- Tire o pneu furado
+- Coloque o novo pneu
+- Abaixe o carro
+- Retire o macaco
+- Faça os apertos necessario
+
+Fim

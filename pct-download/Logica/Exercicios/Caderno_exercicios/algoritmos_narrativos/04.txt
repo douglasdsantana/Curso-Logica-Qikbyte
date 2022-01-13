@@ -1,0 +1,25 @@
+04 - Criar um algotitmo narrativo para o dia do seu aniversario
+
+Inicio
+
+- Acordar
+- Levantar da cama
+- Tomar banho
+- Escovar os dentes
+- Tomar café
+- Assitir TV
+- Jogar Video Game
+- Sair para rua 
+- Ir até um bar
+- Sentar
+- Pedir uma cerveja
+- Beber a cerveja
+- Pagar a cerveja
+- Voltar para casa
+- Cantar parábens
+- Assoprar a vela
+- Cortar o bolo
+- Servir o bolo
+- Dormir
+
+Fim

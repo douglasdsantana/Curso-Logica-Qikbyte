@@ -1,0 +1,3 @@
+06 - Leia dois valores, faça as quatro operaçoes basicas da matemática (adição, subtração,
+divisão e multiplicação) com os dois valores e mostre os resultados com saida.
+

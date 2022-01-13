@@ -1,0 +1,10 @@
+05 - Criar um algoritmo narrativo para uma compra no mercado:
+
+Inicio
+
+- Va ao mercado
+- Escolha o produto que deseja
+- Vá ao caixa 
+- Efetue o pagamento
+
+Fim

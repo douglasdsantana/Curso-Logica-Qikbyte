@@ -1,0 +1,2 @@
+07 - Fui ao mercado com R$ 50,00, fiz uma compra de R$ 27,50, mostre como
+saida o troco que sobrou das compras.

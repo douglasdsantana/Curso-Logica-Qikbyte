@@ -1,0 +1,35 @@
+01 - Criar um algoritmo narrativo para trocar o pneu do carro:
+
+Inicio
+
+- Pegue a chave de roda
+- Pegue o pneu step 
+- Pegue o macaco
+- Coloque o macaco na posição
+- Levante o carro
+- Tire o pneu furado
+- Coloque o novo pneu
+- Abaixe o carro
+- Retire o macaco
+- Faça os apertos necessario
+
+Fim
+
+
+
+02 - Criar um algoritmo narrativo para uma compra no mercado:
+
+Inicio
+
+- Va ao mercado
+- Escolha o produto que deseja
+- Vá ao caixa 
+- Efetue o pagamento
+
+Fim
+
+
+
+
+03 - Escreva um algoritmo computacional para ler o salario mensal atual de um funcionario e o percentual de reajuste. Calcular e escrever o valor do novo salário:
+
